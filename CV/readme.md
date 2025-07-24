@@ -29,11 +29,11 @@ Since this is a static website with no dependencies, viewing it locally is very 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [URL-OF-YOUR-REPOSITORY]
+    git clone https://github.com/Shivsrijit/WebTechnology-Labs/
     ```
 2.  **Navigate into the directory:**
     ```bash
-    cd [repository-name]
+    cd CV
     ```
 3.  **Open the HTML file:**
     Simply open the `index.html` file (or whatever you have named it) in your web browser. You can do this by double-clicking the file or by right-clicking and selecting "Open with..." your browser of choice.
