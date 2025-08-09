@@ -1,0 +1,1 @@
+This is the Simple Registration Form with condition checks , for a community event.
